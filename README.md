@@ -5,4 +5,4 @@
 ### AI Agents · MR · Spatial Gen · BCI
 
 I build systems that blur the line between mind, machine, and reality.  
-I build products people truly love. If you're a real user, tell me your honest feedback.
+I aspire to build products people truly love. If you're a real user, tell me your honest feedback.
