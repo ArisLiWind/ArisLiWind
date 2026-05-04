@@ -6,4 +6,4 @@
 
 I aspire to build products people truly love. If you're a real user, tell me your honest feedback.
 
-I am deeply fascinated by technological revolution. I used to be a UI/UX Designer, AI generative model training engineer and BCI hardware product manager. Now I am a product creator.
+I am deeply fascinated by technological revolution.. Now I am a product creator.
