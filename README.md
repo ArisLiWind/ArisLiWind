@@ -1,6 +1,6 @@
 环流的风
 
-## <span style="color:#ff2222; text-shadow:0 0 8px #ff3333, 0 0 15px #ff0000, 0 0 25px #ff4400; font-weight:bold;">Truth. Action. Endless Burning.</span>
+## <span style="color:#ff2222; text-shadow:0 0 8px #ff3333, 0 0 15px #ff0000, 0 0 25px #ff4400; font-weight:bold;"> Action.Truth. Endless Burning.</span>
 
 ### DEV. Multi- Agents -base-System . 
 
