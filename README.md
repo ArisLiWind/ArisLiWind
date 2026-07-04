@@ -1,6 +1,7 @@
-环流的风
+## <span style="color:#ff2222; text-shadow:0 0 8px #ff3333, 0 0 15px #ff0000, 0 0 25px #ff4400; font-weight:bold;"> Aris.</span>
 
-## <span style="color:#ff2222; text-shadow:0 0 8px #ff3333, 0 0 15px #ff0000, 0 0 25px #ff4400; font-weight:bold;"> Action.Truth. Endless Burning.</span>
+### Computational Neuroscience
+LLMs | AI Agents | Multi-Agent Systems | BCI
 
-### DEV. Multi- Agents -base-System . 
+Make a positive and lasting impact on the world. . 
 
